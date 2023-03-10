@@ -3,7 +3,7 @@
 #include <QApplication>
 #include <QLabel>
 #include <QPixmap>
-
+ //testttttt
 
 int main(int argc, char *argv[])
 {
